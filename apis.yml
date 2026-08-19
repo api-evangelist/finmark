@@ -28,7 +28,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: acquired
 x-status-detail: 'finmark.com 301-redirects to www.bill.com; acquired by BILL and sunset as a standalone product (verified 2026-07-19)'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
